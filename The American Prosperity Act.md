@@ -141,7 +141,7 @@ Every American receives these standard deductions against income:
 ### Healthcare Deduction
 
 - **$10,000** for healthcare expenses
-- Aligns with National Healthcare Security Account (NHSA) contributions
+- Aligns with American Health Security Account (AHSA) contributions
 
 ### Opportunity Deduction
 
@@ -198,7 +198,7 @@ Every American receives these standard deductions against income:
 ### Employee Healthcare Deduction
 
 - **$7,500** per employee for employer healthcare contributions
-- Aligns perfectly with NHSA employer HSA contribution cap
+- Aligns perfectly with AHSA employer HSA contribution cap
 - Available to all company sizes
 
 **Anti-Gaming Provision - Consolidated Ownership Rule:**
@@ -571,7 +571,7 @@ The combination of aggressive small business tax incentives and freed healthcare
 - Must navigate complex tax compliance
 - Face higher effective tax rates than established competitors
 
-**Under APA + NHSA:**
+**Under APA + AHSA:**
 
 - ✅ Keep catastrophic health protection regardless of employment
 - ✅ Simple, clear tax rates with generous deductions
@@ -657,19 +657,19 @@ The combination of aggressive small business tax incentives and freed healthcare
 - Current revenue: $4.9T
 - APA revenue: $4.49T
 - Shortfall: -$410B
-- NHSA savings: +$430B
+- AHSA savings: +$430B
 - **Net: +$20 billion surplus**
 
 **Mid-range estimate (APA raises $4.9T):**
 
 - Perfectly revenue neutral with current system
-- NHSA savings: +$430B
+- AHSA savings: +$430B
 - **Net: +$430 billion annual surplus**
 
 **Optimistic estimate (APA raises $5.34T):**
 
 - Exceeds current revenue: +$440B
-- NHSA savings: +$430B
+- AHSA savings: +$430B
 - **Net: +$870 billion annual surplus**
 
 **The APA is revenue neutral to revenue positive while dramatically simplifying the tax code and reorienting economic incentives.**
@@ -834,7 +834,7 @@ Financial services spent **$2.9 billion on lobbying** in 2020-2024. They will im
 **Working and middle-class families:**
 
 - Lower effective income tax rates (deductions)
-- Portable healthcare (NHSA)
+- Portable healthcare (AHSA)
 - Protected retirement savings (no transaction taxes, 5% withdrawal rate)
 - Opportunity deduction for lower earners
 - **Estimated benefit: $200-300 billion in reduced tax burden + $600B in freed employer capital**
@@ -848,7 +848,7 @@ Financial services spent **$2.9 billion on lobbying** in 2020-2024. They will im
 
 **Entrepreneurs and startups:**
 
-- Healthcare no longer barrier to starting business (NHSA)
+- Healthcare no longer barrier to starting business (AHSA)
 - Lowest corporate tax rates in developed world for small firms
 - Can offer competitive wages without premium burden
 - **Estimated impact: 50-100% increase in new business formation**
@@ -908,7 +908,7 @@ Financial services spent **$2.9 billion on lobbying** in 2020-2024. They will im
 **Fiscal Responsibility:**
 
 - Revenue neutral: $4.5-5.3T annually
-- Combined with NHSA: $430B annual surplus
+- Combined with AHSA: $430B annual surplus
 - Pay down debt, don’t expand government
 - Automatic protections against future tax increases
 
@@ -959,7 +959,7 @@ Financial services spent **$2.9 billion on lobbying** in 2020-2024. They will im
 - **50-100% increase** in small business formation (return to Reagan-era entrepreneurship)
 - **0-5% corporate tax** for businesses <50 employees (lowest in developed world)
 - **15% flat tax** for 99% of individual filers (simplicity + low rates)
-- **$430 billion annual surplus** when combined with NHSA (fiscal responsibility)
+- **$430 billion annual surplus** when combined with AHSA (fiscal responsibility)
 
 #### The Soundbite
 
@@ -1035,7 +1035,7 @@ Financial services spent **$2.9 billion on lobbying** in 2020-2024. They will im
 - Small businesses create millions of good-paying jobs
 - Workers have power because employers compete for them
 - Wealth inequality actually decreases
-- Economic security is universal (via NHSA + APA)”
+- Economic security is universal (via AHSA + APA)”
 
 #### Key Statistics for Progressive Audiences
 
@@ -1083,7 +1083,7 @@ Financial services spent **$2.9 billion on lobbying** in 2020-2024. They will im
 
 **Voluntary Exchange:**
 
-- Healthcare no longer tied to employment (NHSA portability)
+- Healthcare no longer tied to employment (AHSA portability)
 - Can start business without losing coverage
 - Can quit job without fear (economic mobility restored)
 - True labor market (not coerced by benefits lock-in)
@@ -1134,7 +1134,7 @@ Financial services spent **$2.9 billion on lobbying** in 2020-2024. They will im
 - **Tax code:** 75,000 pages → effectively 1 page (radical simplification)
 - **Compliance costs:** $500B annually → <$50B (90% reduction in waste)
 - **Federal revenue:** Capped at $4.5-5T (forces limited government)
-- **Healthcare lock-in:** Eliminated (true labor market freedom via NHSA)
+- **Healthcare lock-in:** Eliminated (true labor market freedom via AHSA)
 - **Speculation tax:** 2.5-5% (market discipline for rent-seeking)
 - **Production tax:** 15% (low, simple, unavoidable)
 
@@ -1176,7 +1176,7 @@ Financial services spent **$2.9 billion on lobbying** in 2020-2024. They will im
 - Your employer saves $17,000/year on your health insurance
 - That money can now go to wages
 - Average increase: $3,000-5,000 annually
-- Plus you still have healthcare (through NHSA catastrophic protection)
+- Plus you still have healthcare (through AHSA catastrophic protection)
 
 **Your Retirement Is Secure:**
 
@@ -1233,7 +1233,7 @@ Financial services spent **$2.9 billion on lobbying** in 2020-2024. They will im
 
 #### What Stays The Same
 
-✅ You still choose your doctor (NHSA)  
+✅ You still choose your doctor (AHSA)  
 ✅ You still invest how you want  
 ✅ You still choose where to live  
 ✅ You still start businesses freely  
@@ -1246,7 +1246,7 @@ Financial services spent **$2.9 billion on lobbying** in 2020-2024. They will im
 - Should filing taxes require a professional? **NO → APA fixes this**
 - Should billionaires pay lower rates than teachers? **NO → APA fixes this**
 - Should Wall Street speculation be tax-free? **NO → APA fixes this**
-- Should starting a business mean losing healthcare? **NO → NHSA+APA fix this**
+- Should starting a business mean losing healthcare? **NO → AHSA+APA fix this**
 - Should taxes be simple enough to understand? **YES → APA delivers this**
 
 #### The Soundbite
@@ -1350,7 +1350,7 @@ Financial services spent **$2.9 billion on lobbying** in 2020-2024. They will im
 
 - “This person will REDUCE my taxes by $4,500”
 - “Plus bring in revenue”
-- “Healthcare through NHSA, I just contribute $7,500”
+- “Healthcare through AHSA, I just contribute $7,500”
 - **Result: Hire aggressively, grow fast**
 
 #### Freedom From Healthcare Burden
@@ -1362,9 +1362,9 @@ Financial services spent **$2.9 billion on lobbying** in 2020-2024. They will im
 - Employees expect it, you can’t afford it
 - **Lose talent to big corporations**
 
-**APA + NHSA system:**
+**APA + AHSA system:**
 
-- Employees have catastrophic coverage (NHSA)
+- Employees have catastrophic coverage (AHSA)
 - You can contribute $7,500 to their HSA (tax deductible for you)
 - No premium negotiations, no broker fees
 - **Compete for talent on wages and culture, not benefits complexity**
@@ -1425,7 +1425,7 @@ Financial services spent **$2.9 billion on lobbying** in 2020-2024. They will im
 
 ### The Security Message
 
-**“Catastrophic healthcare protection (NHSA). Retirement security (protected savings). Simplified taxes (no surprise bills). Economic boom (jobs everywhere). This isn’t insecurity—this is the foundation for the American Dream, rebuilt.”**
+**“Catastrophic healthcare protection (AHSA). Retirement security (protected savings). Simplified taxes (no surprise bills). Economic boom (jobs everywhere). This isn’t insecurity—this is the foundation for the American Dream, rebuilt.”**
 
 -----
 

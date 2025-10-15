@@ -1786,11 +1786,6 @@ Cannot use 1031 exchange to sell and defer taxes if:
 - Can attract talent from expensive metros
 - Operating costs 30-50% lower than coastal cities
 
-✅ **Aligned with HealthSecure America:**
-
-- Healthcare no longer tied to employment (NHSA)
-- Start business without fear of losing coverage
-- Hire employees without healthcare premium burden
 
 ### For State & Local Governments
 

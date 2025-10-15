@@ -18,7 +18,7 @@ The American Opportunity Act addresses the systematic barriers preventing Americ
 
 - **$5,000 government investment** at every birth
 - **$5,000/year contribution cap** from private sources (after-tax)
-- Compounds to **$200,000-400,000** by age 20
+- Compounds to **$100,000-250,000** by age 20
 - **Tax-free withdrawal** for education, housing, business formation
 - **Cost:** $18-20 billion annually (government seed only)
 
@@ -104,7 +104,7 @@ America, like most developed nations, faces an existential demographic crisis:
 - College costs (average $100,000-200,000 per child)
 - Childcare during working years (average $200,000 for two children)
 
-**Total lifetime cost of raising two children to independence: $1-1.5 million for middle-class families.**
+**Total lifetime cost of raising two children to independence: $500k+ for middle-class families.**
 
 **Meanwhile, median household net worth at age 35: $295,000 (homeowners) or $12,000 (renters).**
 
@@ -569,35 +569,6 @@ America was built on the principle that each generation does better than the las
 
 **This policy isn’t just pro-family—it’s pro-solvency for entitlement programs.**
 
-### Integration with Other Policies
-
-**Cross-reference: American Homestead Act 2.0**
-
-- Housing affordability enables family formation
-- Can’t have children without stable housing
-- Birth grant + affordable housing = optimal conditions
-
-**Cross-reference: American Health Security Act (AHSA)**
-
-- Pregnancy and childbirth medical costs covered
-- No job lock (can have children without employer insurance)
-- HSA contributions help cover out-of-pocket costs
-
-**Cross-reference: American Prosperity Act (APA)**
-
-- $5,000 per child tax deduction complements birth grant
-- Reduces ongoing child-raising costs
-- Employer healthcare savings → higher wages → more affordable to raise children
-
-**The four policies together create comprehensive family support:**
-
-1. **Affordable housing** (Homestead Act)
-2. **Healthcare security** (AHSA)
-3. **Financial support at birth** (Family Foundation Grant)
-4. **Ongoing tax relief** (APA child deduction)
-5. **Wealth building for child** (American Opportunity Account, Part 2)
-
------
 
 ## Solution Part 2: American Opportunity Accounts 
 
@@ -924,45 +895,7 @@ Response: “It costs $20 billion per year. Context: Federal government spends $
 
 Response: “Because means-testing creates perverse incentives (why work hard and lose benefits?), requires massive bureaucracy (prove you’re poor every year), and stigmatizes recipients (you’re getting handouts). Universal programs have broader support and better outcomes. Social Security is universal; welfare is means-tested. Which has better political support? Universal is better policy and better politics.”
 
-### Integration with Other Policies
 
-**American Opportunity Account + American Homestead Act 2.0:**
-
-- AOA provides down payment capital
-- Homestead Act provides affordable homes in new communities
-- Result: Age-20 adults can actually buy homes
-
-**American Opportunity Account + National University System (Part 4):**
-
-- AOA provides capital to pay for college
-- National Scholar program provides free attendance
-- Job Mortgages provide alternative financing
-- Result: Multiple pathways to education without debt
-
-**American Opportunity Account + American Prosperity Act (APA):**
-
-- APA frees employer healthcare capital → higher wages
-- Higher wages → families can contribute more to children’s AOAs
-- Result: More families reach $100,000-250,000 by age 20
-
-**American Opportunity Account + National Opportunity Grant (Part 3):**
-
-- AOA gives capital at age 20
-- Opportunity Grant gives second chance at any age 20-65
-- Result: Financial security across entire life span
-
-**All four policies together:**
-
-1. **Birth:** Family Foundation Grant ($10,000) + AOA seed ($5,000)
-2. **Childhood:** AOA grows (family contributions up to $5,000/year)
-3. **Age 20:** AOA matures ($25,000-250,000 tax-free)
-4. **Ages 20-65:** Opportunity Grant lottery (chance at $50,000)
-5. **Ages 18+:** National University System (education/retraining)
-6. **Throughout life:** AHSA (healthcare security) + APA (tax simplicity)
-
-**This is comprehensive human capital investment across the entire life cycle.**
-
-----
 ## Solution Part 3: The National Second Chance Grant
 
 ### The Second-Chance Crisis
@@ -1453,8 +1386,7 @@ Response: “Because means-testing creates perverse incentives (why work hard an
 
 **Response:**
 
-"Context matters. We spend $850 billion on defense. We spend $1 trillion on Medicare. This spends $90-105 billion investing in working-age adults who will pay it back through higher productivity and taxes. The ROI is strong—GDP boost of $135-260B from $90-105B spending. And unlike one-time cash, this is structured support that ensures productive use. Compare to the $300 billion original lottery proposal—this is a third of the cost with bigger individual impact and built-in accountability."
-
+"Context matters. We spend $850 billion on defense. We spend $1 trillion on Medicare. This spends $90-105 billion investing in working-age adults who will pay it back through higher productivity and taxes. The ROI is strong—GDP boost of $135-260B from $90-105B spending. And unlike one-time cash, this is structured support that ensures productive use. 
 #### "Won't this cause inflation?"
 
 **Response:**
@@ -1468,38 +1400,6 @@ Response: “Because means-testing creates perverse incentives (why work hard an
 "Government is terrible at job creation—government jobs programs create inefficient busy-work. This respects individual agency: Do YOU need education? Want to start a business? Need to relocate? Want to eliminate debt? You decide—not Washington bureaucrats. And we provide structured support over 10 years, not just a job that disappears when funding ends. This creates lasting transformation."
 
 ---
-
-### Integration with Other Policies
-
-#### National Second Chance Grant + American Opportunity Accounts
-
-- AOA gives capital at age 20
-- Second Chance Grant gives structured opportunity at ages 25-55
-- **Together: Financial security across entire lifespan**
-
-#### National Second Chance Grant + National University System
-
-- Use grant (Pathway 1) to pay for living expenses while attending National University
-- Or use National Scholar program (free)
-- Or use Job Mortgage
-- **Multiple pathways to education without insurmountable debt**
-
-#### National Second Chance Grant + American Homestead Act 2.0
-
-- Use grant (Pathway 3) to relocate to new Homestead community
-- $40K for moving + $110K support over 5 years while working
-- Escape declining region, move to opportunity
-- **Geographic mobility restored**
-
-#### National Second Chance Grant + American Prosperity Act (APA)
-
-- Winners who start businesses (Pathway 2) benefit from APA small business incentives
-- Lower healthcare costs, simpler taxes
-- **Entrepreneurship explosion**
-
-**This isn't just giving people money—it's giving them a structured, accountable, 10-year partnership to transform their lives.**
-
-----
 
 
 ## Solution Part 4: The National University System
@@ -2322,7 +2222,7 @@ The American Opportunity Act isn’t four separate programs—it’s a comprehen
 **Birth to Age 20: Foundation Building**
 
 1. **Family Foundation Grant** ($10,000): Supports family formation and helps with initial costs
-2. **American Opportunity Account** (seed + contributions): Compounds to $200,000-400,000 by age 20
+2. **American Opportunity Account** (seed + contributions): Compounds to $100,000-250,000 by age 20
 
 **Age 20: Launch**
 
@@ -2746,7 +2646,7 @@ Result: Degrees mean something again because universities are accountable for ou
 
 The American Opportunity Act changes that:
 
-- You get $200,000-400,000 at age 20 to invest in YOUR future (American Opportunity Account)
+- You get $100,000-$250,000 at age 20 to invest in YOUR future (American Opportunity Account)
 - You can attend university for free if you qualify, or with zero debt if you don’t (National Scholar or Job Mortgage)
 - You have a monthly 1% chance to win a $150,000 investment until age 65 (National Second Chance Grant)
 - You can actually afford to start a family (Family Foundation Grant)
@@ -2774,7 +2674,7 @@ This is your turn. This is your shot. This is your American Dream—restored.”
 The American Opportunity Act gives your kids what you can’t afford to give them:
 
 - $5,000 invested at birth (from government) + your contributions
-- Compounds to $200,000-400,000 by age 20
+- Compounds to $100,000-250,000 by age 20
 - Free or debt-free education
 - $10,000 when they’re born to help with immediate costs
 
@@ -2967,7 +2867,7 @@ The American Opportunity Act restores that promise:
 
 **Wealth:**
 
-- Every 20-year-old has $25K-400K (AOA)
+- Every 20-year-old has $25K-$250K (AOA)
 - Homeownership age 25-34: 37% → 55-65%
 - Wealth Gini: 0.49 → 0.43-0.45
 
